@@ -1,0 +1,32 @@
+.container-fluid {
+    display: grid;
+    background-color:rgb(186,202,122);
+}
+h1{
+    position: relative;
+    text-align: center;
+    font-weight: 200;
+    font-size: 40px;
+    color:rgb(42,124,111)
+}
+.user-box input, textarea{
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: rgb(42,124,111);
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid rgb(42,124,111);
+    outline: none;
+    background: transparent;
+}
+.user-box label {
+    position: relative;
+    top:0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: rgb(42,124,111);
+    pointer-events: none;
+    transition: .5s;
+}

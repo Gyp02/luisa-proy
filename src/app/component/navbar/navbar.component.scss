@@ -1,0 +1,28 @@
+// LOGO
+.navbar-brand img{
+	display: flex;
+    position: relative;
+	height: 70px;
+	width: auto;
+
+    left: -70%;
+    cursor: pointer;
+
+}
+
+// links navbar
+.nav-item{
+    display: flex;
+	position: relative;
+    left: 15%;
+    transition: all 200ms linear;
+}
+.nav-link {
+	position: relative;
+	display: inline-block;
+    color: #212121 !important;
+    cursor: pointer;
+    transition: all 200ms linear;
+    font-size: 20px;
+}
+
