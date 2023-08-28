@@ -17,8 +17,88 @@ h1{
 }
 .grid-container {
     display: grid;
+    justify-content: center;
     column-gap: 50px;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 300px 300px 300px;
     background-color: #2196F3;
-    padding: 10px;
+    padding: 5px;
   }
+.grid-item{
+    display: flex;
+    justify-content: center;
+
+}
+.button-downlad{
+
+    color:white;
+    background-color:#f32d2d;
+    width: 220px;
+    height: 40px; 
+    border: none;
+    font-size: 20px;
+    
+}
+//colors {
+//     color: rgb(255,254,252;
+//     color_44: rgb(255,254,252;
+//     color_22: rgb(156,224,214;
+//     color_1: rgb(42,124,111;
+//     color_2: rgb(42,124,111;
+//     color_3: rgb(44,141,126;
+//     color_4: rgb(255,253,248;
+//     color_5: rgb(238,250,247;
+//     color_6: rgb(255,254,252;
+//     color_7: rgb(189,233,226;#fd725f
+//     color_8: rgb(125,211,198;
+//     color_23: rgb(106,209,193;
+//     color_9: rgb(64,188,168;
+//     color_10: rgb(42,124,111;
+//     color_11: rgb(255,254,252;
+//     color_12: rgb(189,233,226;
+//     color_13: rgb(125,211,198;
+//     color_14: rgb(64,188,168;
+//     color_15: rgb(42,124,111;
+//     color_16: rgb(169,226,217;
+//     color_17: rgb(84,197,179;
+//     color_18: rgb(42,124,111;
+//     color_24: rgb(59,191,170;
+//     color_19: rgb(28,83,74;
+//     color_20: rgb(14,41,37;
+//     color_25: rgb(44,141,126;
+//     color_26: rgb(216,229,168;
+//     color_27: rgb(186,202,122;
+//     color_28: rgb(147,176,37;
+//     color_29: rgb(98,117,25;
+//     color_30: rgb(49,59,12;
+//     color_31: rgb(246,253,251;
+//     color_32: rgb(238,250,247;
+//     color_33: rgb(144,222,203;
+//     color_34: rgb(55,189,155;
+//     color_35: rgb(28,94,78;
+//     color_36: rgb(255,254,252;
+//     color_37: rgb(42,124,111;
+//     color_38: rgb(189,233,226;
+//     color_39: rgb(125,211,198;
+//     color_40: rgb(64,188,168;
+//     color_45: rgb(42,124,111;
+//     color_41: rgb(42,124,111;
+//     color_46: rgb(42,124,111;
+//     color_47: rgb(189,233,226;
+//     color_48: rgb(42,124,111;
+//     color_49: rgb(42,124,111;
+//     color_50: rgb(255,254,252;
+//     color_51: rgb(255,254,252;
+//     color_52: rgb(42,124,111;
+//     color_53: rgb(42,124,111;
+//     color_54: rgb(125,211,198;
+//     color_55: rgb(125,211,198;
+//     color_56: rgb(255,254,252;
+//     color_57: rgb(255,254,252;
+//     color_58: rgb(42,124,111;
+//     color_59: rgb(255,254,252;
+//     color_42: rgb(42,124,111;
+//     color_60: rgb(42,124,111;
+//     color_61: rgb(42,124,111;
+//     color_62:rgb( 255,254,252;
+//     color_63: rgb(255,254,252;
+// }
